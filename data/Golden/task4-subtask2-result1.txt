@@ -1,0 +1,82 @@
+117199459	我要去安庆市立医院	navigation.navigation
+117199459	ok	OTHERS
+117199459	呵呵呵	OTHERS
+117199459	播放摇滚歌曲	music.play
+
+115198529	放音乐	music.play
+115198529	广丰白石山	navigation.navigation
+115198529	梁霄	OTHERS
+115198529	取消	navigation.cancel_navigation
+115198529	关闭	navigation.cancel_navigation
+
+188102	导航龙华大润发	navigation.navigation
+188102	搜歌曲	music.play
+188102	203	music.play
+188102	歌曲203毛不易	music.play
+188102	猫不食	OTHERS
+188102	猫不食	OTHERS
+188102	歌曲203毛不易	music.play
+188102	歌曲过客	music.play
+188102	歌曲空空如也	music.play
+
+112198748	益阳	navigation.navigation
+112198748	宜阳	navigation.navigation
+112198748	呼叫董凯详	phone_call.make_a_phone_call
+
+115199967	柏西	OTHERS
+115199967	百姓渔村	navigation.navigation
+115199967	龚一	OTHERS
+115199967	王婷	OTHERS
+115199967	兰亭公寓	navigation.navigation
+115199967	打电话716998	phone_call.make_a_phone_call
+
+187093	再回首	music.play
+187093	王楠	music.play
+187093	信念	music.play
+187093	歌曲信念	music.play
+187093	哇	OTHERS
+187093	兰花花	music.play
+187093	播放兰花花	music.play
+
+117199900	大王	music.play
+117199900	打电话	phone_call.make_a_phone_call
+117199900	王菲的妻子	music.play
+117199900	黄花园	navigation.navigation
+117199900	融化了	OTHERS
+117199900	花匠	OTHERS
+117199900	这个问题我不会你会啥了	OTHERS
+117199900	哦	OTHERS
+117199900	他是在这买来的	OTHERS
+
+116195512	潘美辰的歌	music.play
+116195512	下一首	music.next
+116195512	伍佰的歌	music.play
+
+118198698	我要到大芹山	navigation.navigation
+118198698	大城山	navigation.navigation
+118198698	挂断电话	phone_call.cancel
+
+119195756	打开f m	OTHERS
+119195756	切歌	music.next
+119195756	播放disco	music.play
+119195756	切换到上一首	music.prev
+
+122198384	打个电话	phone_call.make_a_phone_call
+122198384	打开导航	navigation.open
+122198384	导航大亚湾公证处	navigation.navigation
+122198384	打开导航	navigation.open
+122198384	十里银滩碧桂园	navigation.navigation
+
+188020	播放金志文的歌曲远走高飞	music.play
+188020	我看看这阵势	OTHERS
+188020	你不用删我一会儿我就删掉了	OTHERS
+188020	关闭音乐	music.pause
+
+115198718	继续导航去导航	navigation.navigation
+115198718	高颂	OTHERS
+115198718	*	OTHERS
+115198718	哭砂	music.play
+115198718	打电话	phone_call.make_a_phone_call
+115198718	走两步开上去	OTHERS
+115198718	我现在在哪买的	OTHERS
+115198718	我要去门口那里等我们两个人在那里是啊	OTHERS

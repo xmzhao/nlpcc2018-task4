@@ -1,0 +1,82 @@
+117199459	我要去安庆市立医院	navigation.navigation	我要去<destination>安庆市立医院</destination>
+117199459	ok	OTHERS	ok
+117199459	呵呵呵	OTHERS	呵呵呵
+117199459	播放摇滚歌曲	music.play	播放<style>摇滚</style>歌曲
+
+115198529	放音乐	music.play	放音乐
+115198529	广丰白石山	navigation.navigation	<destination>广丰白石山</destination>
+115198529	梁霄	OTHERS	梁霄
+115198529	取消	navigation.cancel_navigation	取消
+115198529	关闭	navigation.cancel_navigation	关闭
+
+188102	导航龙华大润发	navigation.navigation	导航<destination>龙华大润发</destination>
+188102	搜歌曲	music.play	搜歌曲
+188102	203	music.play	<song>203</song>
+188102	歌曲203毛不易	music.play	歌曲<song>203</song><singer>毛不易</singer>
+188102	猫不食	OTHERS	猫不食
+188102	猫不食	OTHERS	猫不食
+188102	歌曲203毛不易	music.play	歌曲<song>203</song><singer>毛不易</singer>
+188102	歌曲过客	music.play	歌曲<song>过客</song>
+188102	歌曲空空如也	music.play	歌曲<song>空空如也</song>
+
+112198748	益阳	navigation.navigation	<destination>益阳</destination>
+112198748	宜阳	navigation.navigation	<destination>宜阳</destination>
+112198748	呼叫董凯详	phone_call.make_a_phone_call	呼叫<contact_name>董凯详</contact_name>
+
+115199967	柏西	OTHERS	柏西
+115199967	百姓渔村	navigation.navigation	<destination>百姓渔村</destination>
+115199967	龚一	OTHERS	龚一
+115199967	王婷	OTHERS	王婷
+115199967	兰亭公寓	navigation.navigation	<destination>兰亭公寓</destination>
+115199967	打电话716998	phone_call.make_a_phone_call	打电话<phone_num>716998</phone_num>
+
+187093	再回首	music.play	<song>再回首</song>
+187093	王楠	music.play	<singer>王楠</singer>
+187093	信念	music.play	<song>信念</song>
+187093	歌曲信念	music.play	歌曲<song>信念</song>
+187093	哇	OTHERS	哇
+187093	兰花花	music.play	<song>兰花花</song>
+187093	播放兰花花	music.play	播放<song>兰花花</song>
+
+117199900	大王	music.play	<song>大王</song>
+117199900	打电话	phone_call.make_a_phone_call	打电话
+117199900	王菲的妻子	music.play	<singer>王菲</singer>的<song>妻子</song>
+117199900	黄花园	navigation.navigation	<destination>黄花园</destination>
+117199900	融化了	OTHERS	融化了
+117199900	花匠	OTHERS	花匠
+117199900	这个问题我不会你会啥了	OTHERS	这个问题我不会你会啥了
+117199900	哦	OTHERS	哦
+117199900	他是在这买来的	OTHERS	他是在这买来的
+
+116195512	潘美辰的歌	music.play	<singer>潘美辰</singer>的歌
+116195512	下一首	music.next	下一首
+116195512	伍佰的歌	music.play	<singer>伍佰</singer>的歌
+
+118198698	我要到大芹山	navigation.navigation	我要到<destination>大芹山</destination>
+118198698	大城山	navigation.navigation	<destination>大城山</destination>
+118198698	挂断电话	phone_call.cancel	挂断电话
+
+119195756	打开f m	OTHERS	打开f m
+119195756	切歌	music.next	切歌
+119195756	播放disco	music.play	播放<song>disco</song>
+119195756	切换到上一首	music.prev	切换到上一首
+
+122198384	打个电话	phone_call.make_a_phone_call	打个电话
+122198384	打开导航	navigation.open	打开导航
+122198384	导航大亚湾公证处	navigation.navigation	导航<destination>大亚湾公证处</destination>
+122198384	打开导航	navigation.open	打开导航
+122198384	十里银滩碧桂园	navigation.navigation	<destination>十里银滩碧桂园</destination>
+
+188020	播放金志文的歌曲远走高飞	music.play	播放<singer>金志文</singer>的歌曲<song>远走高飞</song>
+188020	我看看这阵势	OTHERS	我看看这阵势
+188020	你不用删我一会儿我就删掉了	OTHERS	你不用删我一会儿我就删掉了
+188020	关闭音乐	music.pause	关闭音乐
+
+115198718	继续导航去导航	navigation.start_navigation	继续导航去导航
+115198718	高颂	OTHERS	高颂
+115198718	*	OTHERS	*
+115198718	哭砂	music.play	<song>哭砂</song>
+115198718	打电话	phone_call.make_a_phone_call	打电话
+115198718	走两步开上去	OTHERS	走两步开上去
+115198718	我现在在哪买的	OTHERS	我现在在哪买的
+115198718	我要去门口那里等我们两个人在那里是啊	OTHERS	我要去门口那里等我们两个人在那里是啊
